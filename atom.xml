@@ -3,9 +3,9 @@
   <title><![CDATA[Heather's Coding Journey]]></title>
   <subtitle><![CDATA[Becoming a fullstack developer]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-01-11T04:09:02.290Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://heatherpike.github.io/"/>
+  <updated>2015-01-11T05:37:18.796Z</updated>
+  <id>http://heatherpike.github.io/</id>
   
   <author>
     <name><![CDATA[Heather Pike]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[It's Official]]></title>
-    <link href="http://yoursite.com/2015/01/10/It-s-Official/"/>
-    <id>http://yoursite.com/2015/01/10/It-s-Official/</id>
+    <link href="http://heatherpike.github.io/2015/01/10/It-s-Official/"/>
+    <id>http://heatherpike.github.io/2015/01/10/It-s-Official/</id>
     <published>2015-01-11T01:10:15.000Z</published>
     <updated>2015-01-11T01:27:50.000Z</updated>
     <content type="html"><![CDATA[<p>Yesterday was my last day working as a marketing manager. I have finally walked away from a decade-long career to start over fresh. It’s liberating and terrifying all at the same time. I’m officially changing careers!</p>
@@ -34,8 +34,8 @@
   
   <entry>
     <title><![CDATA[Feeling Ready for Fullstack]]></title>
-    <link href="http://yoursite.com/2015/01/04/Feeling-Ready-for-Fullstack/"/>
-    <id>http://yoursite.com/2015/01/04/Feeling-Ready-for-Fullstack/</id>
+    <link href="http://heatherpike.github.io/2015/01/04/Feeling-Ready-for-Fullstack/"/>
+    <id>http://heatherpike.github.io/2015/01/04/Feeling-Ready-for-Fullstack/</id>
     <published>2015-01-04T23:45:40.000Z</published>
     <updated>2015-01-05T00:00:28.000Z</updated>
     <content type="html"><![CDATA[<p>I can’t believe 2015 is already here! I spent most of my December plowing through the pre-work for Fullstack Academy. It was REALLY tough trying to learn a lot of the concepts on my own (hence, why I decided to attend a bootcamp instead of teach this stuff to myself), but I am really proud and amazed at how far I have come in just a few weeks. </p>
@@ -48,14 +48,14 @@
     <![CDATA[<p>I can’t believe 2015 is already here! I spent most of my December plowing through the pre-work for Fullstack Academy. It was REALLY tough]]>
     </summary>
     
-      <category term="coding, learning" scheme="http://yoursite.com/tags/coding-learning/"/>
+      <category term="coding, learning" scheme="http://heatherpike.github.io/tags/coding-learning/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[New Year, New Career]]></title>
-    <link href="http://yoursite.com/2014/12/14/New-Year-New-Career/"/>
-    <id>http://yoursite.com/2014/12/14/New-Year-New-Career/</id>
+    <link href="http://heatherpike.github.io/2014/12/14/New-Year-New-Career/"/>
+    <id>http://heatherpike.github.io/2014/12/14/New-Year-New-Career/</id>
     <published>2014-12-15T04:01:40.000Z</published>
     <updated>2014-12-15T05:39:47.000Z</updated>
     <content type="html"><![CDATA[<p>Hello World! I am about to embark on a journey to change careers. I am becoming a software developer! My desire to become a developer boils down to my yearning to create things and use my brainpower to the fullest!  </p>
